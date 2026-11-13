@@ -1,0 +1,2 @@
+echo 'this is a script, not a PDF'
+rm -rf /tmp/demo

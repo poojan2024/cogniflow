@@ -1,0 +1,7 @@
+Project review meeting
+
+The project review meeting with the project guide Dr. Meera Nair will be held on 28 October 2026 at 10:30 AM
+in Room 204, CS Block.
+
+Agenda: demo of the Cogniflow prototype, review of the draft project report, and plan for the viva.
+Please bring the draft report and the source code.

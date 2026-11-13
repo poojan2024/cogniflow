@@ -1,0 +1,5 @@
+# st.navigation / st.Page (multi-page app) need Streamlit 1.36 or newer.
+streamlit>=1.36
+requests>=2.31
+# Keeps the login after a browser refresh (stores the JWT in a browser cookie). Optional: see session.py
+streamlit-cookies-controller>=0.0.4

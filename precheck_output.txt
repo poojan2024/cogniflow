@@ -1,0 +1,102 @@
+==============================================================================
+01_project_guidelines.pdf
+  accepted (kind=pdf)
+  extraction: method=TEXT status=PROCESSED ocr_confidence=-  message=None
+  text chars: 554   first line: Department of Computer Applications - MCA Final-Year Major Project Gui
+     DOCUMENT_TYPE  Project / Academic
+     DEADLINE       2026-10-30
+     DEADLINE       2026-12-12
+     DATE           2026-12-18
+     PERSON         Dr. Meera Nair
+     KEYWORDS       project, report, final, year, december, major
+  SUGGESTION: MCA Final-Year Project   score 100.0 (strong)
+==============================================================================
+02_goa_hotel_booking.pdf
+  accepted (kind=pdf)
+  extraction: method=TEXT status=PROCESSED ocr_confidence=-  message=None
+  text chars: 362   first line: Hotel Booking Confirmation - Seaside Resort, Calangute, Goa
+     DOCUMENT_TYPE  Travel / Booking
+     DATE           2026-12-20
+     DATE           2026-12-24
+     DATE           2026-12-10
+     AMOUNT         INR 18400.00
+     AMOUNT         INR 5000.00
+     AMOUNT         INR 13400.00
+     LOCATION       Calangute Beach Road, Goa. Free cancellation until 10 December 2026
+     KEYWORDS       check, december, booking, calangute
+  SUGGESTION: Goa Trip                 score  56.9 (moderate)
+==============================================================================
+03_exam_timetable_scan.png
+  accepted (kind=image)
+  extraction: method=OCR status=PROCESSED ocr_confidence=93  message=None
+  text chars: 402   first line: UNIVERSITY EXAMINATION NOTICE
+     DOCUMENT_TYPE  Exam notice
+     DEADLINE       2026-11-05
+     DATE           2026-11-12
+     DATE           2026-11-16
+     DATE           2026-11-20
+     AMOUNT         INR 1250.00
+     LOCATION       Examination Hall 2, Main Campus
+     KEYWORDS       examination, november, hall, semester
+  SUGGESTION: Semester Exam            score  68.8 (strong)
+==============================================================================
+04_receipt_photo.jpg
+  accepted (kind=image)
+  extraction: method=OCR status=PROCESSED ocr_confidence=95  message=None
+  text chars: 116   first line: FRESH MART SUPERMARKET
+     DATE           2026-10-14
+     KEYWORDS       
+  SUGGESTION: none (no activity scores >= 30)
+==============================================================================
+04b_receipt_flat_scan.png
+  accepted (kind=image)
+  extraction: method=OCR status=PROCESSED ocr_confidence=93  message=None
+  text chars: 196   first line: FRESH MART SUPERMARKET
+     DATE           2026-10-14
+     AMOUNT         INR 62.00
+     AMOUNT         INR 45.00
+     AMOUNT         INR 420.00
+     AMOUNT         INR 215.50
+     AMOUNT         INR 842.50
+     KEYWORDS       
+  SUGGESTION: none (no activity scores >= 30)
+==============================================================================
+05_unreadable_blur.png
+  accepted (kind=image)
+  extraction: method=OCR status=FAILED ocr_confidence=-  message='No readable text could be found in this document. You can type the text in manually.'
+  text chars: 0   first line: (none)
+  -> no information extracted; no suggestion (user must type text or choose manually)
+==============================================================================
+05b_poor_scan.png
+  accepted (kind=image)
+  extraction: method=OCR status=NEEDS_REVIEW ocr_confidence=37  message='The text was read with low confidence (37%). Please check it and correct any mistakes.'
+  text chars: 153   first line: Progect Ketapin mubmEKOn deen 30 Octaber 2026
+     KEYWORDS       
+  SUGGESTION: none (no activity scores >= 30)
+==============================================================================
+06_meeting_notice.txt
+  accepted (kind=txt)
+  extraction: method=TEXT status=PROCESSED ocr_confidence=-  message=None
+  text chars: 308   first line: Project review meeting
+     DOCUMENT_TYPE  Meeting
+     DATE           2026-10-28
+     PERSON         Dr. Meera Nair
+     KEYWORDS       project, review, draft, meeting, report
+  SUGGESTION: MCA Final-Year Project   score  48.2 (moderate)
+==============================================================================
+07_random_recipe.txt
+  accepted (kind=txt)
+  extraction: method=TEXT status=PROCESSED ocr_confidence=-  message=None
+  text chars: 299   first line: Masala dosa recipe
+     KEYWORDS       batter, filling
+  SUGGESTION: none (no activity scores >= 30)
+==============================================================================
+08_renamed_script.pdf
+  UPLOAD REFUSED by the backend (HTTP 400): The file content does not match its .pdf extension.
+==============================================================================
+09_too_large_over_10MB.txt
+  accepted (kind=txt)
+  extraction: method=TEXT status=PROCESSED ocr_confidence=-  message=None
+  text chars: 10880000   first line: Cogniflow size-limit test line.
+     KEYWORDS       cogniflow, limit, line, size, test
+  SUGGESTION: none (no activity scores >= 30)
